@@ -169,7 +169,7 @@ nv.models.bubbleChart = function () {
             }
             start();
 
-            //display_group_all();
+            display_group_all();
 
         });
 
